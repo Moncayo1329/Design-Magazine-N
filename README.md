@@ -1,1 +1,1 @@
-# Desing-N
+# Desing-Magazine-N
