@@ -1,1 +1,1 @@
-# Desing-Magazine-N
+#Núnka Magazine is a personal project about shared trips and my country Ecuador. It's still a prototype and this is the layout (bit of a mess right?) but I'm still learning how to design, build a better layout and then code the website. So yeah, I'll be better at design. 
